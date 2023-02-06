@@ -22,7 +22,11 @@ public class FaseBook_Login_page extends BaseClassProg {
 	 driver.navigate().refresh();
 	 name.sendKeys("Vinish123");
 	 driver.navigate().refresh();
+<<<<<<< HEAD
 	 name.sendKeys("hsini432");
+=======
+	 name.sendKeys("Vini7042");
+>>>>>>> 2a2ccb895a5a2f3a870d1a8796641e84b5cf5a38
 	 
 	 
 	 
