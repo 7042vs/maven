@@ -21,6 +21,8 @@ public class FaseBook_Login_page extends BaseClassProg {
 	 name.sendKeys("vinish");
 	 driver.navigate().refresh();
 	 name.sendKeys("Vinish123");
+	 driver.navigate().refresh();
+	 name.sendKeys("Vini7042");
 	 
 	 
 	 
